@@ -40,7 +40,7 @@ html {
     text-decoration: none;
   }
   nav ul li a.current {
-    background: black;
+    background: #37474F;
   }
   main {
     padding-bottom: 40rem;
